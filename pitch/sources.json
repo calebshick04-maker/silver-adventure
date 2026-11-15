@@ -1,0 +1,30 @@
+{
+  "S1": [
+    "USDA ARS | Chen et al., 2013 | apple-orchard trial",
+    "https://www.ars.usda.gov/research/publications/publication/?seqNo115=296307"
+  ],
+  "S2": [
+    "USDA NASS | Noncitrus Fruits and Nuts 2025 Summary | p. 38",
+    "https://release.nass.usda.gov/reports/ncit0526.pdf"
+  ],
+  "S3": [
+    "Smart Apply | Vineyards | manufacturer description, not independent testing",
+    "https://www.smartapply.com/growers/vineyards"
+  ],
+  "S4": [
+    "U.S. EPA | Introduction to Pesticide Labels",
+    "https://www.epa.gov/pesticide-labels/introduction-pesticide-labels"
+  ],
+  "S5": [
+    "Virginia Tech | Airblast calibration lab | water-only orchard footage",
+    "https://www.virginiafruit.ento.vt.edu/airdemo.html"
+  ],
+  "S6": [
+    "OMAFA / CropLife Canada | drift education videos, via Sprayers 101",
+    "https://sprayers101.com/omafra-drift-video/"
+  ],
+  "S7": [
+    "Health Canada | Management of Pesticide Spray Drift",
+    "https://www.canada.ca/en/health-canada/services/consumer-product-safety/pesticides-pest-management/growers-commercial-users/drift-mitigation/management-pesticide-spray-drift.html"
+  ]
+}

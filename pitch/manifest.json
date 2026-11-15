@@ -1,0 +1,62 @@
+{
+  "sources.json": {
+    "bytes": 1130,
+    "sha256": "990becea14b7a6b3353f4ac09379cd19450e1d4f4d7ac708ea5573bd8bd48076"
+  },
+  "sprayer-concept.blend": {
+    "bytes": 8341336,
+    "sha256": "62bfeab2eec568d0b038a341129df876cc6e84cfc6a92f734a6932a74b5e97e5"
+  },
+  "sprayer-in-action.mp4": {
+    "bytes": 541286,
+    "sha256": "fee221e27a5c11c948c5d255f2983a7fd874421fb73665f0c8594838bca4a673"
+  },
+  "README.md": {
+    "bytes": 2002,
+    "sha256": "eab0e078c673d2d34e35e6768138043a6a94865fc3fc6e77e407361d0d7abc3c"
+  },
+  "CanopyFlow-pitch-package.zip": {
+    "bytes": 13852775,
+    "sha256": "6ffd866b76e06321264455fe5f4892c0e1d30b5d75a8174a52e8d23f9725685a"
+  },
+  "airblast-poster.png": {
+    "bytes": 833386,
+    "sha256": "0a1bb550a8995cfc54de3e6e76d845a6264a2e1137dd17f370d65f75a96d8d9a"
+  },
+  "CanopyFlow-pitch.pdf": {
+    "bytes": 2820287,
+    "sha256": "36ba7f69f85e6e28496577fd40467ab09251b3ce747fea576798627a7e09c738"
+  },
+  "concept-render.png": {
+    "bytes": 396876,
+    "sha256": "e2481372e8b4fdbc8b27aaee094e1c7bb3b750849013a05cbc62d3cb49e50d87"
+  },
+  "CanopyFlow-pitch.pptx": {
+    "bytes": 5570909,
+    "sha256": "b727c07570f1190906c6701c80a94eae12854c831abac6ae11ebfd3a40c6894d"
+  },
+  "media-cues.md": {
+    "bytes": 3574,
+    "sha256": "645779b7a1bce28eae44992e9368dcd04c49857a08cd3762432f93ffd6f14f6a"
+  },
+  "judge-prep.pdf": {
+    "bytes": 60652,
+    "sha256": "2d7328832555ec70963ef1d5b4abffeb7d1ae6aedf8da11240ca1d911487d1c6"
+  },
+  "judge-prep.md": {
+    "bytes": 16429,
+    "sha256": "73371fd32f79d73775f9a6a9372186d192d1be4ab81a2f35633831e31351b70b"
+  },
+  "CanopyFlow-business-model.xlsx": {
+    "bytes": 11552,
+    "sha256": "86b89c5373356e1dd608ee164e213cb41b10138ac4c33a67ad28242183af1f67"
+  },
+  "airblast-excerpt.mp4": {
+    "bytes": 3705297,
+    "sha256": "c5ce8a72555503320e4c2baa59de801518107e20cb8cd2cb0636f90461bebe9b"
+  },
+  "speaker-notes.md": {
+    "bytes": 8901,
+    "sha256": "0ab111795dd39e443981e83ec97792b2109321a35d3d07cbe5c322d46a7366ca"
+  }
+}
